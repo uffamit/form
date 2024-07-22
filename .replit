@@ -1,0 +1,7 @@
+
+modules = ["python-3.10"]
+run = "python3 server.py"
+
+[[ports]]
+localPort = 8080
+externalPort = 80
